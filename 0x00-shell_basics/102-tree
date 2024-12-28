@@ -1,8 +1,4 @@
 #1/bin/sh
 
-mkdir welcome
-cd welcome
-mkdir to
-cd to 
-mkdir school
+mkdir -p welcome/to/school
 
