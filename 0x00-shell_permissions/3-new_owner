@@ -1,4 +1,4 @@
-#1/bin/sh
+#!/bin/sh
 
 chown Nkentseu hello
 
